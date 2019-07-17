@@ -1,6 +1,7 @@
 # PHP Developer Coding Exemplar
-## Instructions
+My answers to [Rebilly](https://rebilly.com/) questionnaire.
 
+## Instructions
 This coding exemplar is designed to highlight your skills and areas of expertise with the PHP language in general. We rely mainly on PHP as our web technology of choice. Because of this, it's important that developers have a well-rounded understanding of the PHP language.
 
 Please complete the following questions to the best of your ability. If you are unable to solve a question, please indicate as such. You should feel free to use the PHP manual and other resources to solve these questions; after all, we expect that our developers will use their problem-solving skills at work! Some questions are intended to be difficult, while others are meant to be easy or obvious. Please post your answers in a Gist, using Markdown format, and send the link for review.
